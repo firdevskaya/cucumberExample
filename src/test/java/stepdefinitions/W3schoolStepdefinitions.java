@@ -27,6 +27,8 @@ public class W3schoolStepdefinitions {
         for(WebElement element : liste){
             System.out.println(element.getText());
         }
-
+  
+        
+         System.out.println("basardik");
     }
 }
